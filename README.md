@@ -14,6 +14,10 @@ The system is built around a simple yet functional hardware setup:
 
 📡 IMU - BNO008X (https://vi.aliexpress.com/item/32983637871.html?gatewayAdapt=glo2vnm)
 
+# Complete Robot
+
+![robot](https://github.com/user-attachments/assets/4d3465d2-2965-4926-968e-73ead6c1b50f)
+
 # Development Roadmap
 If the initial phase progresses successfully, we plan to extend the project by integrating a Camera Module for Visual Odometry and perception tasks.
 
